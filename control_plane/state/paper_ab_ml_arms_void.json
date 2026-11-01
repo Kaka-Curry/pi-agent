@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "artifact": "paper_ab_ml_arms_void",
+  "production_score": "v3.7",
+  "approved": false,
+  "status": "void",
+  "void_reason": "paper clean sample is under 20 trading days; pick5d_ml is unbound",
+  "clean_window": {
+    "required_days": 20,
+    "days": []
+  }
+}
